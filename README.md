@@ -1,19 +1,23 @@
 # idaproject
+Frontend-developer test (Vue.js)
+[Задание](https://idaproject.notion.site/Frontend-developer-test-9b834d020d8f406f851479791209beef)
+
+### Реализованный функционал:
+ 
+* Форма добавления товара
+* Валидация формы
+* Добавление товара в список
+* Удаление товара
+* Сортировка по названию / цене(сначала дешевые) / цене(сначала дорогие)
+![screenshot](https://github.com/Bytebale/idaproject/blob/main/Screenshot%202022-07-31%20at%2007.02.51.png)
 
 ## Project setup
 ```
-npm install
-```
+$ git clone https://github.com/Bytebale/idaproject.git
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+$ cd idaproject
 
-### Compiles and minifies for production
-```
-npm run build
-```
+$ npm install
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+$ npm run serve
+```
